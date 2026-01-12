@@ -1,2 +1,2 @@
-# -Time-Series-Forecasting-using-REST-API
+# Enterprise-Financial-Analytics
 Time-series data is fundamental to financial markets, where historical prices, volumes, and indicators are used to analyze trends, volatility, and market behavior. This project builds an end-to-end analytics and forecasting pipeline for stock market time-series data using REST APIs, covering data ingestion, preprocessing, exploratory analysis, and predictive modeling. The system is designed to be scalable and reusable, with performance evaluation and interactive visual insights delivered through a deployed web application.
